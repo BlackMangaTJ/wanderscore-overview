@@ -141,6 +141,8 @@ Both tracks feed the same total score. This means a frequent traveller who never
 
 ## Screenshots
 
+## Screenshots
+
 <p align="center">
   <img src="./screenshots/map.png" width="220" alt="Interactive credibility map" />
   <img src="./screenshots/create_menu.png" width="220" alt="Create menu" />
@@ -149,9 +151,8 @@ Both tracks feed the same total score. This means a frequent traveller who never
 </p>
 
 <p align="center">
-  <img src="./screenshots/triple_planning_flow.png" width="700" alt="AI itinerary generation, Canvas Lab, and Trip Groups" />
+  <img src="./screenshots/05_triple_planning_flow.png" width="700" alt="AI itinerary generation, Canvas Lab, and Trip Groups" />
 </p>
-
 ---
 
 ## Business Model
