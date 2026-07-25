@@ -148,6 +148,10 @@ Both tracks feed the same total score. This means a frequent traveller who never
   <img src="./screenshots/social_feed.png" width="220" alt="Community social feed" />
 </p>
 
+<p align="center">
+  <img src="./screenshots/triple_planning_flow.png" width="700" alt="AI itinerary generation, Canvas Lab, and Trip Groups" />
+</p>
+
 ---
 
 ## Business Model
