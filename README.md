@@ -142,12 +142,10 @@ Both tracks feed the same total score. This means a frequent traveller who never
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/quad_overview.png" width="800" alt="WanderScore overview — map, create menu, profile, and social feed" />
-</p>
-
-<p align="center">
-  <img src="./screenshots/map.png" width="260" alt="Interactive credibility map" />
-  <img src="./screenshots/triple_planning_flow.png" width="500" alt="AI itinerary, Canvas Lab, and Trip Groups" />
+  <img src="./screenshots/map.png" width="220" alt="Interactive credibility map" />
+  <img src="./screenshots/create_menu.png" width="220" alt="Create menu" />
+  <img src="./screenshots/profile.png" width="220" alt="Profile and WanderScore levels" />
+  <img src="./screenshots/social_feed.png" width="220" alt="Community social feed" />
 </p>
 
 ---
