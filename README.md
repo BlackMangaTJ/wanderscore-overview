@@ -139,7 +139,6 @@ Both tracks feed the same total score. This means a frequent traveller who never
 
 ---
 
-## Screenshots
 
 ## Screenshots
 
